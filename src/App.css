@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+ 
 }
-
+*{
+  background-color:  #c0c0c0;
+  
+}
+div{
+  padding:10px;
+  font-weight: 500;
+}
+select{
+  padding:7px;
+}
 
